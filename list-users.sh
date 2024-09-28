@@ -54,7 +54,7 @@ if [ $# -ne $expected_cmd_args] then
 echo "Please Execute script with required number of arguments."
 echo "Name of Organisation and Name of Repository."
 }
-# Main script
 
+# Main script
 echo "Listing users with read access to ${REPO_OWNER}/${REPO_NAME}..."
 list_users_with_read_access
