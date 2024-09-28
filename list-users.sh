@@ -1,6 +1,10 @@
 #!/bin/bash
 
 ########################################
+# About: This script will print collaborators having Read access
+# Input: export USERNAME and TOKEN of git
+# Execution Command: ./list-users.sh NameOfOrg NameOfRepository
+# Execution Command Example: ./list-users.sh KrishaTejasviOrg ShellScriptTest
 # Author: Tejasvi S
 # Date: 29th Sept 2024
 # Version: v1
