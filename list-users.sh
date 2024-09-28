@@ -1,5 +1,11 @@
 #!/bin/bash
 
+########################################
+# Author: Tejasvi S
+# Date: 29th Sept 2024
+# Version: v1
+########################################
+
 # GitHub API URL
 API_URL="https://api.github.com"
 
